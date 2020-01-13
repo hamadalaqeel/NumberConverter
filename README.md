@@ -10,6 +10,12 @@ To install the library, simply run the following command:
 
 ``` pip install () ```
 
+## File Descriptions
+- NumberToWords:
+  * NumberToWord.py: contain the code to convert number to letter
+- tests:
+  * testNumberToWord.py: contains test cases.
+
 ## Usage
 
 Command line:
