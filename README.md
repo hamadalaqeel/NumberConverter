@@ -18,10 +18,9 @@ $ num2words 431
 أربعمائة و واحد و ثلاثون
 $ num2words -8324
 سالب ثمانية آلاف  و ثلاثمائة و أربعة و عشرون
-
 ```
 
-In code there's only one function to use:
+In code, there's only one function to use:
 
 ```
 >>> from num2words import num2words
